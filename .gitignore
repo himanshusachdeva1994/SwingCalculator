@@ -1,5 +1,4 @@
 nbproject/private
 build/
-.idea/
+.idea/workspace.xml
 out/
-SwingCalculator.iml
